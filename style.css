@@ -1,0 +1,48 @@
+.facilities {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	padding-top: 100px;
+}
+
+body {
+	background-color: lightseagreen;
+}
+
+.header img {
+	width: 100%;
+	border-radius: 10px;
+	margin-bottom: 5%;
+	box-shadow: 0 0 48px 2px rgba(0, 0, 0, 0.7);
+}
+
+.facilities-col {
+	flex-basis: 31%;
+	border-radius: 10px;
+	margin-bottom: 5%;
+	text-align: left;
+	border-color: red 3px;
+}
+
+.facilities-col img {
+	width: 100%;
+	border-radius: 10px;
+	box-shadow: 0 0 48px 2px rgba(0, 0, 0, 0.7);
+
+}
+
+.facilities-col p {
+	padding: 0;
+}
+
+.facilities-col h3 {
+	margin-top: 16px;
+	margin-bottom: 15px;
+	text-align: left;
+}
+
+.facilities h1 {
+	padding-bottom: 30px;
+
+}
+
